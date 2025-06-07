@@ -9,4 +9,4 @@ After gathering those metrics, the assignment requires the display of all those 
 Esse projeto é parte da disciplina "Redes de Computadores" do meu curso de graduação.
 
 O objetivo é extrair métricas, como tempo médio de estabelecimento de conexão/handshake em pacotes TCP, tempo de viagem estimado dos pacotes, dentre outras.
-Após reunir essas métricas, o trabalho exige a exposição dessas métricas por meio de uma aplicação web, com gráficos projetados para uma melhor visualização do que foi realizado.
+Após reunir essas métricas, o trabalho exige a exposição dessas por meio de uma aplicação web, com gráficos projetados para uma melhor visualização do que foi realizado.
